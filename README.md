@@ -1,14 +1,7 @@
 NBA Game Outcome Prediction
 This repository contains an NBA game outcome prediction project, leveraging machine learning models to forecast game results. The project explores data preprocessing, feature engineering, and model evaluation.
 
-Table of Contents
-Overview
-Data Preprocessing
-Feature Engineering
-Modeling
-Results
-Requirements
-Usage
+
 Overview
 The goal of this project is to predict the outcome of NBA games. Various machine learning models, including Support Vector Machines (SVMs) and Neural Networks, are employed to classify game results based on historical game and player statistics.
 
